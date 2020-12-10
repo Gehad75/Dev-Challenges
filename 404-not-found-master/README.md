@@ -63,5 +63,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [My LinkedIn](https://www.linkedin.com/in/gehad-salem/)
-- GitHub [@Gehad75](https://github.com/Gehad75)
+- GitHub [@GehadSalemFekry](https://github.com/GehadSalemFekry)
 - Twitter [@GehadSalemFekry](https://twitter.com/GehadSalemFekry)
